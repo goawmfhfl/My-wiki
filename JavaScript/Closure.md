@@ -9,7 +9,6 @@
 ```jsx
 var outer = function () {
   var a = 1;
-  ㅋ;
   var inner = function () {
     var b = 2;
     var c = 3;
