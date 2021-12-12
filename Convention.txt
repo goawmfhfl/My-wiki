@@ -1,4 +1,12 @@
+### commit convention
+
 Add: 새로운 내용추가
 Edit 내용 수정
 Docs: 문서 추가
 Style: 문서 스타일 수정
+
+### 문서 작성 convention
+
+# 💡
+
+# 🚀

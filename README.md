@@ -18,6 +18,6 @@
 
 - JavaScript
   - [Closure](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Closure.md)
-  - [test]()
+  - [Constructor](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Constructor.md)
   - [test]()
   - [test]()
