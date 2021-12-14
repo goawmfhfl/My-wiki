@@ -18,12 +18,16 @@ em과 rem 단위를 쓰면 디자인이 유연해지면서, 고정된 크기에�
 
 # 🚀 코드예시
 
+<img width="200" alt="em" src="https://user-images.githubusercontent.com/79143800/145941407-a2380e11-4af0-43d6-8882-0a6a45e1878b.png">
+
+
 - em
 
 ```css
 .step1 {
   font-size: 2em;
-}
+}![Uploading rem.png…]()
+
 .step2 {
   font-size: 2em;
 }
@@ -40,6 +44,8 @@ em과 rem 단위를 쓰면 디자인이 유연해지면서, 고정된 크기에�
 <br/>
 
 - rem
+<img width="200" alt="em" src="https://user-images.githubusercontent.com/79143800/145941351-92a0c0b3-2c8a-4026-b4f7-0095767a6ec4.png">
+
 
 ```css
 .step1 {
@@ -61,6 +67,13 @@ em과 다르게 크기를 결정하는 기준은 root의 font-size이다. 이에
 > font size = rem , padding = em을 주었을 경우
 
 padding을 em으로 주게 되면 요소(폰트)의 크기에 비례한 크기가 결정된다. 이를 활용하면 아래와 같이 폰트사이즈가 변경 될 경우 padding값이 줄어들어 유연성있게 디자인이 가능하다.
+
+
+https://user-images.githubusercontent.com/79143800/145941478-0763e24b-7454-432b-987d-981282568c3e.mov
+
+
+
+
 
 # 🔗 Reference
 
