@@ -18,10 +18,10 @@ em과 rem 단위를 쓰면 디자인이 유연해지면서, 고정된 크기에�
 
 # 🚀 코드예시
 
+## em
+
 <img width="200" alt="em" src="https://user-images.githubusercontent.com/79143800/145941407-a2380e11-4af0-43d6-8882-0a6a45e1878b.png">
 
-
-- em
 
 ```css
 .step1 {
@@ -43,9 +43,8 @@ em과 rem 단위를 쓰면 디자인이 유연해지면서, 고정된 크기에�
 
 <br/>
 
-- rem
+## rem
 <img width="200" alt="em" src="https://user-images.githubusercontent.com/79143800/145941351-92a0c0b3-2c8a-4026-b4f7-0095767a6ec4.png">
-
 
 ```css
 .step1 {
