@@ -12,4 +12,4 @@
   - [Closure](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Closure.md)
   - [Constructor](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Constructor.md)
   - [Prototype](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Prototype.md)
-  - [test]()
+  - [SubType, SuperType](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/SubType,SuperType.md)
