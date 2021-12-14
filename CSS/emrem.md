@@ -26,7 +26,7 @@ em과 rem 단위를 쓰면 디자인이 유연해지면서, 고정된 크기에�
 .step1 {
   font-size: 2em;
 }
-![Uploading rem.png…'undefined()'] .step2 {
+.step2 {
   font-size: 2em;
 }
 .step3 {
