@@ -12,6 +12,7 @@
 - **_JavaScript_**
   <br/>
 
+  - [Object-Oriented Programming](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/OOP.md)
   - [Closure](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Closure.md)
   - [Constructor](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Constructor.md)
   - [Prototype](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Prototype.md)
