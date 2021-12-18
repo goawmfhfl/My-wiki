@@ -22,4 +22,6 @@
 - **Browser**
   <br/>
 
+  - [Cookie](https://github.com/goawmfhfl/My-wiki/blob/main/Browser/Cookie.md)
   - [Session & JWT](https://github.com/goawmfhfl/My-wiki/blob/main/Browser/Session%20&%20JWT.md)
+  - [Cashe](https://github.com/goawmfhfl/My-wiki/blob/main/Browser/Cashe.md)
