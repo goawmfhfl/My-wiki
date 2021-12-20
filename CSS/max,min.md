@@ -49,23 +49,24 @@
   </body>
 ```
 
-- max-width, min-width 속성을 둘다 지정하지 않았을 때
+- `max-width, min-width 속성을 둘다 지정하지 않았을 때`
+
+https://user-images.githubusercontent.com/79143800/146844274-e06c509f-e82e-4f37-b233-dce1a3f878ab.mov
 
 container안에 있던 item요소는 container의 크기가 줄어듦에 따라서 item에 담긴 이미지 요소가 줄어드는 것을 볼 수 있다.
 
-<video src="./src/mov/아무것도 설정하지 않았을 때.mov"></video>
+- `max-width`
 
-- max-width
+https://user-images.githubusercontent.com/79143800/146844415-cc269684-f4fe-4a99-8df7-4059b5d1daad.mov
 
 container안에 있던 item요소는 container의 크기가 아무리 커지더라도 지정해둔 max-width값 이상만큼은 커지지 않는다. 난 최대한 이만큼만 넓어질거야! 라고 정해주는 것과 같다
 
-<video src="./src/mov/max-width 설정.mov"></video>
+- `min-width`
 
-- min-width
+https://user-images.githubusercontent.com/79143800/146844427-6be3e258-e00d-48ac-b750-b818d0537c89.mov
 
 container안에 있던 item요소는 container의 크기가 아무리 작아지더라도 지정해둔 min-width값 이하만큼은 작아지지 않는다. 난 적어도 크기는 유지할거야 ! 라고 설정하는 것과 같다.
 
-<video src="./src/mov/min-width 설정.mov"></video>
 
 # 🔗 Reference
 
