@@ -53,19 +53,19 @@
 
 container안에 있던 item요소는 container의 크기가 줄어듦에 따라서 item에 담긴 이미지 요소가 줄어드는 것을 볼 수 있다.
 
-<video src="src/mov/아무것도 설정하지 않았을 때.mov"></video>
+<video src="./src/mov/아무것도 설정하지 않았을 때.mov"></video>
 
 - max-width
 
 container안에 있던 item요소는 container의 크기가 아무리 커지더라도 지정해둔 max-width값 이상만큼은 커지지 않는다. 난 최대한 이만큼만 넓어질거야! 라고 정해주는 것과 같다
 
-<video src="src/mov/max-width 설정.mov"></video>
+<video src="./src/mov/max-width 설정.mov"></video>
 
 - min-width
 
 container안에 있던 item요소는 container의 크기가 아무리 작아지더라도 지정해둔 min-width값 이하만큼은 작아지지 않는다. 난 적어도 크기는 유지할거야 ! 라고 설정하는 것과 같다.
 
-<video src="src/mov/min-width 설정.mov"></video>
+<video src="./src/mov/min-width 설정.mov"></video>
 
 # 🔗 Reference
 
