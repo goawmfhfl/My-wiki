@@ -30,4 +30,7 @@
 - **ETC**
   <br/>
 
-  -[HomeBrew](https://github.com/goawmfhfl/My-wiki/blob/main/ETC/HomeBrew.md)
+  -[HomeBrew](https://github.com/goawmfhfl/My-wiki/blob/main/ETC/HomeBrew.md) -[Update git version](https://github.com/goawmfhfl/My-wiki/blob/main/ETC/UpdateGitVersion.md)
+
+  - **Debug**
+    <br/>
