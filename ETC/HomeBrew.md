@@ -8,6 +8,4 @@ Homebrew는 macOS를 사용하는 프로그래머들에게 손쉽게 다양한 �
 
 # 🔗 Reference
 
-<br/>
-
 - [애플 실리콘 M1용 Homewbrew 설치](https://www.lainyzine.com/ko/article/how-to-install-homebrew-for-m1-apple-silicon/)
