@@ -40,6 +40,8 @@
   <br/>
 
   - [DataBase](https://github.com/goawmfhfl/My-wiki/blob/main/DataBase/database.md)
+  - [NoSQL](https://github.com/goawmfhfl/My-wiki/blob/main/DataBase/NoSql.md)
+  - [MySQL](https://github.com/goawmfhfl/My-wiki/blob/main/DataBase/MySql.md)
 
 <br/>
 
