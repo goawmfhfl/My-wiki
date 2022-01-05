@@ -62,6 +62,7 @@
 
   - [HomeBrew](https://github.com/goawmfhfl/My-wiki/blob/main/ETC/HomeBrew.md)
   - [Update git version](https://github.com/goawmfhfl/My-wiki/blob/main/ETC/UpdateGitVersion.md)
+  - [git command editor VScode](https://github.com/goawmfhfl/My-wiki/blob/b6df09db0dee413c4ee0464866233a6c0c1788a7/ETC/UpdateGitVersion.md)
 
 <br/>
 
