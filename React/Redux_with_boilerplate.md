@@ -12,7 +12,7 @@
 
 <br/>
 
-<img width="500" alt="em" src="../src/boilerplate.jpeg">
+<img width="500" alt="boilerplate" src="../src/boilerplate.jpeg">
 
 <br/>
 
