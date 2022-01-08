@@ -36,6 +36,7 @@
   <br/>
 
   - [Router](https://github.com/goawmfhfl/My-wiki/blob/main/React/Router.md)
+  - [Redux_with_boilerplate](https://github.com/goawmfhfl/My-wiki/blob/main/React/Redux_with_boilerplate.md)
 
 <br/>
 
