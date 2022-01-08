@@ -72,3 +72,4 @@
 
   - [useSearchParams](https://github.com/goawmfhfl/My-wiki/blob/main/Debug/useSearchParams.md)
   - [Node_version_error](https://github.com/goawmfhfl/My-wiki/blob/main/Debug/%5BNode%5Dversion_error.md)
+  - [create_react_app](https://github.com/goawmfhfl/My-wiki/blob/main/Debug/create_react_app.md)
