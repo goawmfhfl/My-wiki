@@ -29,6 +29,7 @@
   - [Callback&Promise](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Callback&Promise.md)
   - [async&await](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/async&await.md)
   - [EventLoop](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/EventLoop.md)
+  - [Functional Programming](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Functional%20Programming.md)
 
   <br/>
 
