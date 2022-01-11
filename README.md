@@ -12,6 +12,8 @@
   - [centerAlignment](https://github.com/goawmfhfl/My-wiki/blob/main/CSS/centerAlignment.md)
   - [em & rem](https://github.com/goawmfhfl/My-wiki/blob/a65c05809bd0f9ffb0e49badd78c36b2d6175c3d/CSS/emrem.md)
   - [max & min](https://github.com/goawmfhfl/My-wiki/blob/main/CSS/max,min.md)
+  - [StyleComonent-props](https://github.com/goawmfhfl/My-wiki/blob/main/React/StyleComponent-Props.md)
+  - [StyleComonent-Button](https://github.com/goawmfhfl/My-wiki/blob/main/React/StyleComponent-Button.md)
 
 <br/>
 
