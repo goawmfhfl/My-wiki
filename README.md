@@ -50,6 +50,7 @@
 
 - **Browser**
   <br/>
+  - [CSR?SSR?](https://github.com/goawmfhfl/My-wiki/blob/main/Browser/CSRvsSSR.md)
   - [DOM,CSSOM,BOM,VirtualDOM](https://github.com/goawmfhfl/My-wiki/blob/main/Browser/ObjectModel.md)
   - [Browser rendering process](https://github.com/goawmfhfl/My-wiki/blob/main/Browser/Browser%20rendering%20process.md)
   - [Cookie](https://github.com/goawmfhfl/My-wiki/blob/main/Browser/Cookie.md)
