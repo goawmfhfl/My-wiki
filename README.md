@@ -72,7 +72,7 @@
 
 - **ETC**
   <br/>
-
+  - [Hypertext Transfer Protocol (HTTP) Status Code](https://github.com/goawmfhfl/My-wiki/blob/main/Browser/HTTP%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C.md)
   - [HomeBrew](https://github.com/goawmfhfl/My-wiki/blob/main/ETC/HomeBrew.md)
   - [Update git version](https://github.com/goawmfhfl/My-wiki/blob/main/ETC/UpdateGitVersion.md)
   - [EsLint & Prettier](https://github.com/goawmfhfl/My-wiki/blob/main/ETC/EsLint%20&%20Prettier.md)
