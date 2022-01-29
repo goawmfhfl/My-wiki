@@ -21,6 +21,7 @@
 - **_JavaScript_**
   <br/>
 
+  - [javaScriptTypeAndCopy](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/javaScriptType.md)
   - [ExecutionContext](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/ExecutionContext.md)
   - [Object-Oriented Programming](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/OOP.md)
   - [Closure](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Closure.md)
