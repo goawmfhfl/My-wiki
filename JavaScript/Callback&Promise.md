@@ -4,7 +4,16 @@
 
 > Callback?
 
-자바스크립트는 `싱글스레드` 방식으로 동작한다. 이런 싱글 스레드 방식에서 비동기 처리를 위해 사용하는 패턴이 바로 콜백이다. 이러한 콜백은 함수의 처리 순서를 보장하기 위해서 사용하는 경우가 있다. 함수를 중첩하게 사용되는 경우에는 `콜백헬` 이라는 것이 발생한다. 이런 콜백헬이 발생하게 되면 코드의 흐름을 예측하기 힘들고 가독성이 좋지 않아 유지보수가 힘들다. 또한 일반적인 callback 함수에서는 try,catch 문이 동작하지 않아 에러처리가 힘들다는 단점이 있다. 이러한 프로미스의 단점을 해결하기 위해서 사용하는 것이 바로 `Promise`다
+- 정의: 함수의 인자로 들어가는 함수
+- 기능: 콜백은 함수의 처리 순서를 보장하기 위해서
+
+자바스크립트는 `싱글스레드` 방식으로 동작한다. 이런 싱글 스레드 방식에서 비동기 처리를 위해 사용하는 패턴이 바로 콜백이다. 이러한 콜백은 함수의 처리 순서를 보장하기 위해서 사용하는 경우가 있다. 함수를 중첩하게 사용되는 경우에는 `콜백헬` 이라는 것이 발생한다. 이런 콜백헬이 발생하게 되면 코드의 흐름을 예측하기 힘들고 가독성이 좋지 않아 유지보수가 힘들다. 또한 일반적인 callback 함수에서는 try,catch 문이 동작하지 않아 에러처리가 힘들다는 단점이 있다. 이러한 콜백의 단점을 해결하기 위해서 사용하는 것이 바로 `Promise`다
+
+<br/>
+
+> 싱글스레드에서 어떻게 멀티쓰레드 처럼 동작할 수 있게 하는가?
+
+자바스크립트는 비동기 함수를 통해서 콜백함수를 통해 WepAPI에 넘겨줌으로써 동시성을 지원한다. 비동기함수는 콜백을 통해서 WebAPI에 작업을 넘겨준다. 전달된 작업들은 순서에 상관없이 태스크 큐에 차곡차곡 쌓이게된다. 그렇게 쌓이게 된 콜백들은 콜 스택이 비어있을 때 `이벤트 루프`에 의해서 순서대로 실행이 된다.
 
 > Promise
 
@@ -32,15 +41,15 @@ const promise = new Promise((resolve, reject) => {
 
 ```jsx
 // fullfilled
-new Promise(resolve => resolve("fulfilled")).then(
-  v => console.log(v),
-  e => console.log(e),
+new Promise((resolve) => resolve("fulfilled")).then(
+  (v) => console.log(v),
+  (e) => console.log(e)
 ); // fulfilled
 
 // rejected
 new Promise((_, rejected) => rejected(new Error("rejected"))).then(
-  v => console.log(v),
-  e => console.log(e),
+  (v) => console.log(v),
+  (e) => console.log(e)
 ); // Error: rejected
 ```
 
@@ -59,8 +68,8 @@ new Promise((_, rejected) => rejected(new Error("rejected"))).then(
 catch 메서드는 한 개의 콜백 함수를 인수로 전달받는다. catch 메서드의 콜백 함수는 프로미스가 rejected 상태인 경우만 호출된다.
 
 ```jsx
-new Promise((_, reject) => reject(new Error("reject"))).catch(e =>
-  console.log(e),
+new Promise((_, reject) => reject(new Error("reject"))).catch((e) =>
+  console.log(e)
 ); // Error: reject
 ```
 
