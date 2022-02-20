@@ -21,22 +21,23 @@
 - **_JavaScript_**
   <br/>
 
-  - [javaScriptTypeAndCopy](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/javaScriptType.md)
-  - [ExecutionContext](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/ExecutionContext.md)
-  - [Object-Oriented Programming](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/OOP.md)
-  - [Closure](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Closure.md)
-  - [Constructor](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Constructor.md)
-  - [Prototype](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Prototype.md)
-  - [SubType, SuperType](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/SubType,SuperType.md)
-  - [Class](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Class.md)
-  - [asynchronous Programing](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/asynchronousPrograming.md)
-  - [Callback](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Callback.md)
-  - [Promise](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Callback&Promise.md)
+  - [일급객체](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/FirstClassObject.md)
+  - [자바스크립트 타입](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/javaScriptType.md)
+  - [실행컨텍스트](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/ExecutionContext.md)
+  - [객체지향프로그래밍](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/OOP.md)
+  - [클로저](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Closure.md)
+  - [생성자함수](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Constructor.md)
+  - [프로토타입](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Prototype.md)
+  - [서브타입, 슈퍼타입](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/SubType,SuperType.md)
+  - [클래스](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Class.md)
+  - [비동기 프로그래밍](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/asynchronousPrograming.md)
+  - [콜백](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Callback.md)
+  - [프로미스](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Callback&Promise.md)
   - [async&await](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/async&await.md)
-  - [EventLoop](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/EventLoop.md)
-  - [Functional Programming](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Functional%20Programming.md)
-  - [Eventdelegation](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Eventdelegation.md)
-  - [AboutWebpack](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Webpack.md)
+  - [이벤트루프](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/EventLoop.md)
+  - [함수형프로그래밍](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Functional%20Programming.md)
+  - [이벤트위임](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Eventdelegation.md)
+  - [웹팩](https://github.com/goawmfhfl/My-wiki/blob/main/JavaScript/Webpack.md)
 
   <br/>
 
